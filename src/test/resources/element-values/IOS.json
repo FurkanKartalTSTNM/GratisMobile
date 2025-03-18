@@ -2376,8 +2376,8 @@
     "key": "DetailShareBtn",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "**/XCUIElementTypeButton[`label == 'productShareIcon'`]",
-    "iosType": "classChain"
+    "iosValue": "productShareIcon",
+    "iosType": "accessibilityId"
   },
   {
     "key": "ShareDrag",

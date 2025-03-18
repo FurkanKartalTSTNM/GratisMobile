@@ -21,6 +21,8 @@ public class IOSSelector implements Selector {
             by = MobileBy.name(elementInfo.getIosValue());
         } else if (elementInfo.getIosType().equals("classChain")) {
             by = MobileBy.iOSClassChain(elementInfo.getIosValue());
+        }else if (elementInfo.getIosType().equals("accessibilityId")) {
+            by = MobileBy.AccessibilityId(elementInfo.getIosValue());
         }
         return by;
     }

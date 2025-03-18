@@ -637,6 +637,7 @@
 * Elementin yüklenmesini bekle "PopupSavedBtnIos"
 * Elementine tıkla "PopupSavedBtnIos"
 * "AddFavoriteSuccessfulPopupIos" elementi bulunana kadar en fazla "30" saniye kadar bekle
+* "1" saniye bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
 * Elementine tıkla "PopupOkayBtnIos"
 
@@ -645,6 +646,7 @@
 * Elementine tıkla "FavBtn"
 * "RemoveFavoriteSuccessfulPopupIos" elementi bulunana kadar en fazla "30" saniye kadar bekle
 * Elementin yüklenmesini bekle "PopupOkayBtnIos"
+* "1" saniye bekle
 * Elementine tıkla "PopupOkayBtnIos"
 
 # Yeni favori listesi olusturulur ve secilen urun favori eklenir
@@ -986,7 +988,7 @@
 * Elementin yüklenmesini bekle "GratisCardTitle"
 
 # Gratis Card baglama islemi uyarı mesajları görülür
-* "Gratis Kartınızı Henüz Bağlamadınız." text degerine sahip elementin goruntulendigi kontrol edilir
+* "Gratis Kartınızı henüz bağlamadınız." text degerine sahip elementin goruntulendigi kontrol edilir
 * Elementin yüklenmesini bekle "GratisCardConnectBtn"
 * Elementine tıkla "GratisCardConnectBtn"
 * "Gratis Kart Al,  İndirimlerden Faydalan!" text degerine sahip elementin goruntulendigi kontrol edilir

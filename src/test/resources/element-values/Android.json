@@ -850,6 +850,13 @@
     "iosType": ""
   },
   {
+    "key": "addFavoriteListButton",
+    "androidValue": "(//*[@resource-id='com.gratis.android:id/fav_btn'])[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
     "key": "addListPopupTitle",
     "androidValue": "//*[@text='Yeni Liste Oluştur']",
     "androidType": "xpath",

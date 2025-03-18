@@ -514,8 +514,8 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "favBtn2"
 
 # Yeni favori listesi olusturulur ve secilen urun favori eklenir.
-* Elementin yüklenmesini bekle "addListButton"
-* Elementine tıkla "addListButton"
+* Elementin yüklenmesini bekle "addFavoriteListButton"
+* Elementine tıkla "addFavoriteListButton"
 * Element var mı kontrol et "addListPopupTitle"
 * "1" saniye bekle
 * Elementin yüklenmesini bekle "1"
@@ -579,7 +579,7 @@ This is a concept file with following syntax for each concept.
 * Elementine tıkla "favListSpinner"
 * Elementin yüklenmesini bekle "favListSpinner"
 * "1" saniye bekle
-* "413","581" koordinatlarına tıkla
+* "226","581" koordinatlarına tıkla
 //* "favListSpinner" elementinin koordinatlarına x="0" y="400" degerlerini ekleyerek tıkla
 * "2" saniye bekle
 * "favListSpinner" elementinin "yeni liste adı" textini içerdiği kontrol edilir
