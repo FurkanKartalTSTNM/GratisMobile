@@ -112,7 +112,7 @@ tags:Gratis_IOS_UrunDetayFavori
 * Yeni Gratis4 ile login olunur
 * Kategoriler sayfasina gecilir
 * "Ev & Yaşam" isimli kategori seçilir
-* Alt kategorilerden biri "Dekorasyon", "Dekoratif Aksesuar" seçilir
+* Alt kategorilerden biri "Plaj & Deniz Malzemeleri", "Plaj Tekstil" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
 * Urun favorilere eklenir
@@ -132,7 +132,7 @@ tags:Gratis_IOS_UrunDetayNonLoginFavori
 * Uygulama baslatilir
 * Kategoriler sayfasina gecilir
 * "Ev & Yaşam" isimli kategori seçilir
-* Alt kategorilerden biri "Dekorasyon", "Dekoratif Aksesuar" seçilir
+* Alt kategorilerden biri "Plaj & Deniz Malzemeleri", "Plaj Tekstil" seçilir
 * Urun detay sayfasına geçilir
 * Ürün detay sayfasında ürün favori butonuna tıklanır
 * Yeni favori ikonu ile Gratis0 login olunur
